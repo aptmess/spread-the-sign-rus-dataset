@@ -4,7 +4,7 @@ This is parsed Sign Language Russian Dataset from the [SpreadTheSign site](https
 
 ## Downloads
 
-You ara available to download dataset from this [source]() in [ZIP](https://en.wikipedia.org/wiki/ZIP_(file_format)) format (~1.6GB).
+You ara available to download dataset from this [source](https://drive.google.com/file/d/1wKGRxEmTZeM5omDsIyn64UonbXBDNIR5/view?usp=sharing) in [ZIP](https://en.wikipedia.org/wiki/ZIP_(file_format)) format (~1.6GB).
 
 ## Dataset Information
 
@@ -60,10 +60,10 @@ The corresponding letter image representation to each `id` is stored in folder `
 ### Dataset Statistic
 
 - Number of videos - `14815`
-- Duration (h) - `2.26
+- Duration (h) - `2.26`
 - Vocabulary size (words) - `12.4K`
 - Number of frames - `1.12M`
-- Resolution, Fps - `340x360, 30`
+- Resolution, Fps - `240x320, 30`
 
 ## Distibutor
 

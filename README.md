@@ -2,6 +2,8 @@
 
 This is parsed Sign Language Russian Dataset from the [SpreadTheSign site](https://spreadthesign.com/ru.ru/search/by-category/).
 
+![test_git_spreadtesign_rus](https://github.com/aptmess/spread-the-sign-rus-dataset/assets/43338025/9fdb673c-96a6-4f8e-a538-5c572ba5bf65)
+
 ## Downloads
 
 You ara available to download dataset from this [source](https://drive.google.com/file/d/1wKGRxEmTZeM5omDsIyn64UonbXBDNIR5/view?usp=sharing) in [ZIP](https://en.wikipedia.org/wiki/ZIP_(file_format)) format (~1.6GB).
